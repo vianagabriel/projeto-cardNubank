@@ -1,6 +1,6 @@
 # Projeto Cartão Nubank Animado
 
-<img src="./Images/printnubank">
+<img src="./Images/printnubank.png">
 
 
 🚀 Começando
